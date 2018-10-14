@@ -1,5 +1,6 @@
 from glob import glob
 from re import sub
+from collections import Counter
 
 """
 Turn the following unix pipeline into Python code using generators
@@ -21,31 +22,31 @@ def gen_files(pat):
     files = glob(pat)
     for file in files:
         yield file
-                
+
 
 def gen_lines(files):
     for file in files:
-        with open(file) as f:
-            yield f.readline()
+        with open(file, encoding='utf-8') as f:
+            for line in f:
+                yield line
+
 
 def gen_grep(lines, pattern):
     for line in lines:
-        yield sub(pattern, '', line)
+        if line.startswith(pattern):
+            yield sub(pattern, '', line).strip()
+
 
 def gen_count(lines):
-    pass
+    for item, count in sorted(sorted(Counter(lines).most_common(),
+        reverse=True), key=lambda x:x[-1], reverse=True):
+        yield f'{count:7} {item}'
 
 
 if __name__ == "__main__":
-    # call the generators, passing one to the other
-    files = gen_files('../*/*.py')
-    #print(files.__next__())
+    files = gen_files('../*/*py')
     lines = gen_lines(files)
-    for i in range(100):
-        print(lines.__next__())
-    
-    '''
-    grep_lines = gen_grep(lines, '(^import .*)')
-    for i in range(100):
-        print(grep_lines.__next__())
-    '''
+    lines = gen_grep(lines, 'import ')
+    lines = gen_count(lines)
+    for line in lines:
+        print(line)
