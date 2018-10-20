@@ -1,0 +1,39 @@
+-------------------------------------------------------------------------------
+Keyword of title search: python
+OK!
+There are 1 movies found.
+Monty Python and the Holy Grail with code tt0071853 has score 8.3
+-------------------------------------------------------------------------------
+Keyword of title search: python
+ERROR: Could not open the HTTP page.
+Error number 404
+Reason: Not Found
+-------------------------------------------------------------------------------
+Keyword of title search: matrix
+ERROR: Could not connect to proxy.
+Check your proxy settings.
+-------------------------------------------------------------------------------
+Keyword of title search: matrix
+OK!
+There are 4 movies found.
+The Matrix Revolutions with code tt0242653 has score 6.7
+The Matrix Reloaded with code tt0234215 has score 7.2
+The Matrix with code tt0133093 has score 8.7
+The Helix... Loaded with code tt0401462 has score 1.9
+-------------------------------------------------------------------------------
+Keyword of title search: matrix
+There are 3 movies found.
+Oh that didn't work!: 'str' object has no attribute 'imdb_code'
+-------------------------------------------------------------------------------
+Keyword of title search: matrix
+ERROR: Could not open the HTTP page.
+Error number 407
+Reason: Proxy Authentication Required
+-------------------------------------------------------------------------------
+Keyword of title search: 
+ERROR: You must specify a search term.
+-------------------------------------------------------------------------------
+Keyword of title search: matrix
+ERROR: Could not find server.
+Check your network connection.
+-------------------------------------------------------------------------------
