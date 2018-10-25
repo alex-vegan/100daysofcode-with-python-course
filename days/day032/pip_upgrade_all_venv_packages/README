@@ -1,0 +1,18 @@
+
+#copy files with scripts to virtual environment directory
+(my_venv) a1ex@ve9an:~$ cp requirements_purring.py ~/venv/my_venv
+(my_venv) a1ex@ve9an:~$ cp requirements_diffing.py ~/venv/my_venv
+#move to virtual environment directory
+(my_venv) a1ex@ve9an:~$ cd ~/venv/my_venv
+#copy list of packets to one file
+(my_venv) a1ex@ve9an:~/venv/my_venv$ pip freeze > requirements_old.txt
+#clear file with installed packets from version numbers
+(my_venv) a1ex@ve9an:~/venv/my_venv$ python requirements_purring.py requirements_old.txt requirements_purr.txt
+#upgrade all packets that possible
+(my_venv) pip install --upgrade -r requirements_pure.txt > log_upgrade_packages.txt
+#copy list of packets to another file
+(my_venv) a1ex@ve9an:~/venv/my_venv$ pip freeze > requirements_new.txt
+#make file with differences between before and after upgrades
+(my_venv) a1ex@ve9an:~/venv/my_venv$ python requirements_diffing.py requirements_old.txt requirements_new.txt requirements_diff.txt
+#show results :)
+(my_venv) a1ex@ve9an:~/venv/my_venv$ cat requirements_diff.txt
