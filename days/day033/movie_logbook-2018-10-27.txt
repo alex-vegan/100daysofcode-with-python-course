@@ -1,0 +1,15 @@
+[2018-10-27 08:06:05.283784] NOTICE: Startup: Logging started. level: 9 mode: file movie_logbook.log
+[2018-10-27 08:12:57.117431] WARNING: Resp: Could not open the HTTP page. Error number 404 Reason: Not Found
+[2018-10-27 08:23:25.323342] NOTICE: Startup: Logging started. level: 9 mode: file movie_logbook.log
+[2018-10-27 08:24:00.551868] NOTICE: Startup: Logging started. level: 9 mode: file movie_logbook.log
+[2018-10-27 09:12:03.337319] NOTICE: Startup: Logging started. level: 9 mode: file movie_logbook.log
+[2018-10-27 09:12:08.869531] WARNING: Resp: Could not find server. Check your network connection.
+[2018-10-27 09:17:46.766517] NOTICE: Startup: Logging started. level: 9 mode: file movie_logbook.log
+[2018-10-27 09:17:50.547741] WARNING: Resp: Could not open the HTTP page. Error number 404 Reason: Not Found
+[2018-10-27 09:20:00.584759] NOTICE: Startup: Logging started. level: 9 mode: file movie_logbook.log
+[2018-10-27 09:20:04.935969] NOTICE: Resp: Connection correctly made. Status code: 200
+[2018-10-27 09:20:04.935969] TRACE: Resp: For keyword << python >> has been found 1 movies
+[2018-10-27 09:25:08.502598] NOTICE: Startup: Logging started. level: 9 mode: file movie_logbook.log
+[2018-10-27 09:25:10.392202] TRACE: Resp: Search term has not been specified
+[2018-10-27 09:29:54.060407] NOTICE: Startup: Logging started. level: 9 mode: file movie_logbook.log
+[2018-10-27 09:30:00.361650] ERROR: Resp: !!! System Fatality Crash !!!
