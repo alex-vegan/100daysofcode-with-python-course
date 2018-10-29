@@ -1,11 +1,12 @@
 import os
 import urllib.request
 
+
 # PREWORK
 #DICTIONARY = os.path.join('/tmp', 'dictionary.txt')
 #urllib.request.urlretrieve('http://bit.ly/2iQ3dlZ', DICTIONARY)
 
-DICTIONARY = 'dictionary.txt'
+DICTIONARY = '../../day020/bite_065_Get_all_valid_dictionary_words_for_a_draw_of_letters/dictionary.txt'
 
 scrabble_scores = [(1, "E A O I N R T L S U"), (2, "D G"), (3, "B C M P"),
                    (4, "F H V W Y"), (5, "K"), (8, "J X"), (10, "Q Z")]
@@ -19,8 +20,8 @@ def load_words():
     """load the words dictionary (DICTIONARY constant) into a list and return it"""
     with open(DICTIONARY) as f:
         return [word.strip() for word in f.read().split()]
-    
-    
+
+
 def calc_word_value(word):
     """given a word calculate its value using LETTER_SCORES"""
     word_value = 0
@@ -39,6 +40,3 @@ def max_word_value(words=None):
             max_word_value = word_value
             max_word = word
     return max_word
-
-if __name__ == "__main__":
-    print(max_word_value(load_words()[20000:21000]))

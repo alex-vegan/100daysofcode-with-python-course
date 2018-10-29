@@ -15,7 +15,3 @@ def make_html(element):
 @make_html('strong')
 def get_text(text='I code with PyBites'):
     return text
-
-
-if __name__ == '__main__':
-    print(get_text('I code with PyBites'))

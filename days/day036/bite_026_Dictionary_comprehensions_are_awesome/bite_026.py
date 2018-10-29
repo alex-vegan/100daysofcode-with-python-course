@@ -19,6 +19,3 @@ exclude_bites = {6, 10, 16, 18, 21}
 def filter_bites(bites=bites, bites_done=exclude_bites):
     """return the bites dict with the exclude_bites filtered out"""
     return {k:v for k,v in bites.items() if not k in bites_done}
-
-if __name__ == "__main__":
-    print(filter_bites())

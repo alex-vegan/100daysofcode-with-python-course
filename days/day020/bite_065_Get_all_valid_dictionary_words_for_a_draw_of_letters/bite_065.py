@@ -10,7 +10,7 @@ DICTIONARY = 'dictionary.txt'
 
 with open(DICTIONARY) as f:
     dictionary = set([word.strip().lower() for word in f.read().split()])
-    
+
 
 
 def get_possible_dict_words(draw):
@@ -35,7 +35,3 @@ def _get_permutations_draw(draw):
         list_perm = itertools.permutations(draw, i+1)
         for perm in list_perm:
             yield perm
-
-
-if __name__ == "__main__":
-    #print(get_possible_dict_words('T, I, I, G, T, T, L'.split(", ")))
