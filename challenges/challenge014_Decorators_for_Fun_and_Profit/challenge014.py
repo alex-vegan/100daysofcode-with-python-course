@@ -91,6 +91,7 @@ def fun_count(lines):
     return '\n'.join(count_list)
 
 #-------------------------------------------------------------------------------
+'''
 if __name__ == "__main__":
     print('compare exec time of generators and functions by using decorator')
     print('-'*101)
@@ -107,3 +108,4 @@ if __name__ == "__main__":
     lines = fun_count(lines)
     print(lines)
     print('-'*101)
+'''

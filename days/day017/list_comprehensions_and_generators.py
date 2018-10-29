@@ -21,10 +21,7 @@ def gen_pairs(names=NAMES):
         l, r = sample(names, 2)
         yield f"{(l.split()[0]).title()} teams up with {(r.split()[0]).title()}"
 
-
-
-
-
+'''
 if __name__ == "__main__":
     print(convert_title_case_names())
     print('-'*101)
@@ -35,3 +32,4 @@ if __name__ == "__main__":
         print(next(pairs))
     print('-'*101)
     pp(list(islice(pairs, 10)))
+'''

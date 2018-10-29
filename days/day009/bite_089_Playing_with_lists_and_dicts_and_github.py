@@ -59,8 +59,11 @@ def combine_state_names_and_abbreviations(us_state_abbrev=us_state_abbrev,
     result_list.extend(state[-10:])
     return result_list
 
+
+'''
 if __name__ == '__main__':
     print(states_list[9::10])
     print({key:us_state_abbrev[key] for key in list(us_state_abbrev.keys())[9::10]})
     print(sorted(list(us_state_abbrev.keys()))[45])
     print(sorted(list(us_state_abbrev.values()))[27])
+'''

@@ -42,7 +42,7 @@ def gen_count(lines):
         reverse=True), key=lambda x:x[-1], reverse=True):
         yield f'{count:7} {item}'
 
-
+'''
 if __name__ == "__main__":
     files = gen_files('../*/*py')
     lines = gen_lines(files)
@@ -50,3 +50,4 @@ if __name__ == "__main__":
     lines = gen_count(lines)
     for line in lines:
         print(line)
+'''
