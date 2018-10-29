@@ -1,6 +1,9 @@
 import random
 from classes import Roll, Player 
 import csv
+import sys
+sys.path.append('../day014/rps_game')
+from game import get_player_name
 
 CSV_FILE = 'battle-table.csv'
 
@@ -23,13 +26,6 @@ def build_the_fifteen_rolls():
                     defeat_list.append(key)
             rolls[name] = Roll(name, tuple(defeat_list))
     return rolls
-
-
-def get_player_name():
-    name = ''
-    while not name:
-        name = input("Input your name: ")
-    return name
 
 
 def get_computer_roll(rolls):
