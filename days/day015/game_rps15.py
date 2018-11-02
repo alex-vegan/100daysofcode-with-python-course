@@ -1,16 +1,17 @@
 import random
-from classes import Roll, Player 
+from classes import Roll, Player
 import csv
 import sys
 sys.path.append('../day014/rps_game')
 from game import get_player_name
 
+
 CSV_FILE = 'battle-table.csv'
 
 def print_header():
-    print('------------------------------------------') 
+    print('------------------------------------------')
     print('  ROCK-PAPER-SCISSORS (extended version)  ')
-    print('------------------------------------------') 
+    print('------------------------------------------')
 
 # dict of rolls(objects)
 def build_the_fifteen_rolls():
@@ -35,7 +36,7 @@ def get_computer_roll(rolls):
 def get_player_roll(rolls):
     choise = ''
     print("-"*42)
-    while not len(choise) == 1 or not choise.lower() in 'adefghklnoprstw': 
+    while not len(choise) == 1 or not choise.lower() in 'adefghklnoprstw':
         choise = input("Choose your roll:\n"
                        "[R]ock, [P]aper, [S]cissors, d[E]vil, [G]un,\n"
                        "[L]ightning, [D]ragon, spo[N]ge, [T]ree, [A]ir,\n"
@@ -57,16 +58,16 @@ def get_player_roll(rolls):
     if choise.lower() == "f": return rolls["Fire"]
 
 
-def geme_loop(player1, player2, rolls): 
+def geme_loop(player1, player2, rolls):
     count = 0
     while count < 3:
         p2_roll = get_computer_roll(rolls)
-        p1_roll = get_player_roll(rolls) 
+        p1_roll = get_player_roll(rolls)
         p1_outcome = p1_roll.candefeat(p2_roll)
         p2_outcome = p2_roll.candefeat(p1_roll)
         if p1_outcome:
             player1.count += 1
-            winner = player1 
+            winner = player1
         elif p2_outcome:
             player2.count += 1
             winner = player2
@@ -79,14 +80,14 @@ def geme_loop(player1, player2, rolls):
         else:
             print(f'In this round both players have same result.')
         count += 1
-    print('-'*42 + f'\nresult of game ({player1.count} : {player2.count})')    
+    print('-'*42 + f'\nresult of game ({player1.count} : {player2.count})')
     if player1.count > player2.count:
         print(f'Congratulation {player1.name}, you won!')
     elif player1.count < player2.count:
         print(f"I'm sory for you {player1.name}, but {player2.name} won.")
     else:
         print(f'Score of both players is equal. Draw game!')
-        
+
 
 def main():
     print_header()
