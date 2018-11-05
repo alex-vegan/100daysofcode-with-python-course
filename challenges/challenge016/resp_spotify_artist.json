@@ -1,0 +1,653 @@
+{
+  "artists": {
+    "href": "https://api.spotify.com/v1/search?query=Jimi&type=artist&offset=0&limit=20",
+    "items": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        },
+        "followers": {
+          "href": null,
+          "total": 2676969
+        },
+        "genres": [
+          "album rock",
+          "blues-rock",
+          "classic rock",
+          "hard rock",
+          "psychedelic rock",
+          "rock"
+        ],
+        "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+        "id": "776Uo845nYHJpNaStv1Ds4",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/14ce65949a921e76421a0164c17f9ebe0a8d76e8",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/4b558965f7e515f73d68964b7ca364c950a0b815",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/eb9a1d6414f7693a32c0bd0c4422e0fa26110d2a",
+            "width": 160
+          }
+        ],
+        "name": "Jimi Hendrix",
+        "popularity": 74,
+        "type": "artist",
+        "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/64HBdKvWVbP9ZwvprrQcdJ"
+        },
+        "followers": {
+          "href": null,
+          "total": 61
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/64HBdKvWVbP9ZwvprrQcdJ",
+        "id": "64HBdKvWVbP9ZwvprrQcdJ",
+        "images": [],
+        "name": "Jimi Ono",
+        "popularity": 49,
+        "type": "artist",
+        "uri": "spotify:artist:64HBdKvWVbP9ZwvprrQcdJ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1KW04GdOuzrsTVOAVd6eRg"
+        },
+        "followers": {
+          "href": null,
+          "total": 11623
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/1KW04GdOuzrsTVOAVd6eRg",
+        "id": "1KW04GdOuzrsTVOAVd6eRg",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/0d4fae54cdc3e701cf3d23d13fad962e1630f887",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/17336ca3ed8c13253e6bb17a373c3b7048127da4",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/f77ff7245e6fcc94f2fcf03fc8c2565866fa5771",
+            "width": 160
+          }
+        ],
+        "name": "Jimi Tents",
+        "popularity": 42,
+        "type": "artist",
+        "uri": "spotify:artist:1KW04GdOuzrsTVOAVd6eRg"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
+        },
+        "followers": {
+          "href": null,
+          "total": 4257
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/3klvuxan8KcvysB5d9q7Ls",
+        "id": "3klvuxan8KcvysB5d9q7Ls",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/89d74391b70fd4fbc10958ae72200547b6014471",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/2e72c80e58d494a36b744ee90ea0f17ffdcdb442",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/0ed67fd3e62b087fb58f2b8d33c01b6815432be2",
+            "width": 160
+          }
+        ],
+        "name": "Jimi Cravity",
+        "popularity": 37,
+        "type": "artist",
+        "uri": "spotify:artist:3klvuxan8KcvysB5d9q7Ls"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2c7W5Wrgn9aGrqtSFrHa1a"
+        },
+        "followers": {
+          "href": null,
+          "total": 7311
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/2c7W5Wrgn9aGrqtSFrHa1a",
+        "id": "2c7W5Wrgn9aGrqtSFrHa1a",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/74bbb56f114704ec058cd9c3d23657e40958a172",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/a765fe84827cdb15e06f2dcaaeb6cc5dc64da8f7",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/43f98169384fb4fddcf62fb5e275c9ddf3367206",
+            "width": 160
+          }
+        ],
+        "name": "Jimi Charles Moody",
+        "popularity": 44,
+        "type": "artist",
+        "uri": "spotify:artist:2c7W5Wrgn9aGrqtSFrHa1a"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        },
+        "followers": {
+          "href": null,
+          "total": 4871
+        },
+        "genres": [
+          "deep melodic euro house"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6RsLLSkSTcL4YrvgRcBTQd",
+        "id": "6RsLLSkSTcL4YrvgRcBTQd",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/fe006bd60a252f2fbcfc08942d554d0570ebe24b",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/46bee77d7d1b77026804c4e76cfca45dcc2e6346",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/b15e391e7532bf08a3a673531cbc1cc45bc4dd7d",
+            "width": 160
+          }
+        ],
+        "name": "Jimi Jules",
+        "popularity": 49,
+        "type": "artist",
+        "uri": "spotify:artist:6RsLLSkSTcL4YrvgRcBTQd"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB"
+        },
+        "followers": {
+          "href": null,
+          "total": 1880
+        },
+        "genres": [
+          "norwegian indie"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5rXanKVc707nhQmW1Is2pB",
+        "id": "5rXanKVc707nhQmW1Is2pB",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/8306d73927baa87cb7b4f6d277652c081d0232e4",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/76dfc2cbe005ca153d860a7389ad22cd9619327d",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/a4f8bcd058c8d480e7fe76bd6dc415e671665beb",
+            "width": 160
+          }
+        ],
+        "name": "Jimi Somewhere",
+        "popularity": 34,
+        "type": "artist",
+        "uri": "spotify:artist:5rXanKVc707nhQmW1Is2pB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/69H6uUTI29XBzQXV1d3A7D"
+        },
+        "followers": {
+          "href": null,
+          "total": 7210
+        },
+        "genres": [
+          "finnish electronic",
+          "indie jazz",
+          "trip hop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/69H6uUTI29XBzQXV1d3A7D",
+        "id": "69H6uUTI29XBzQXV1d3A7D",
+        "images": [
+          {
+            "height": 1003,
+            "url": "https://i.scdn.co/image/5a2b4ddfbe95f3f3f25b6803240da792d5333966",
+            "width": 1000
+          },
+          {
+            "height": 642,
+            "url": "https://i.scdn.co/image/beb797775b9c42e96897ce12e3ad94351d76ca69",
+            "width": 640
+          },
+          {
+            "height": 201,
+            "url": "https://i.scdn.co/image/c3114725660b84cafe68bd99975fe0fea47ebe59",
+            "width": 200
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/f9e997b50498f7926ab0b5261d308633dc35f148",
+            "width": 64
+          }
+        ],
+        "name": "Jimi Tenor",
+        "popularity": 35,
+        "type": "artist",
+        "uri": "spotify:artist:69H6uUTI29XBzQXV1d3A7D"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06wKgmi0ixbZIzmTOllMze"
+        },
+        "followers": {
+          "href": null,
+          "total": 18
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/06wKgmi0ixbZIzmTOllMze",
+        "id": "06wKgmi0ixbZIzmTOllMze",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/52637ec1b7ea129dddd0a20c1557d0f9718700c3",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/d747a99492925b8295158afa8944db36cbad9d4e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/cfa82974591c0ed165046f3fdfb10e1fccd528b2",
+            "width": 64
+          }
+        ],
+        "name": "Jimi Lang",
+        "popularity": 18,
+        "type": "artist",
+        "uri": "spotify:artist:06wKgmi0ixbZIzmTOllMze"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6xSBLNQa1A3iOSNVbxqLbC"
+        },
+        "followers": {
+          "href": null,
+          "total": 3731
+        },
+        "genres": [
+          "melodic hard rock"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6xSBLNQa1A3iOSNVbxqLbC",
+        "id": "6xSBLNQa1A3iOSNVbxqLbC",
+        "images": [
+          {
+            "height": 651,
+            "url": "https://i.scdn.co/image/c9a5e1aa1ca89cb0fe12e7ae4a0ad30152b4d7ed",
+            "width": 1000
+          },
+          {
+            "height": 417,
+            "url": "https://i.scdn.co/image/fdf2d577ecdde02b67d987202ff0ffbb0b439d99",
+            "width": 640
+          },
+          {
+            "height": 130,
+            "url": "https://i.scdn.co/image/2393174b97a4be84df9aeb3d8b9e0cffdb3af0a7",
+            "width": 200
+          },
+          {
+            "height": 42,
+            "url": "https://i.scdn.co/image/fc988eedfa1b67a426329fd407cf14e3fa74aca5",
+            "width": 64
+          }
+        ],
+        "name": "Jimi Jamison",
+        "popularity": 33,
+        "type": "artist",
+        "uri": "spotify:artist:6xSBLNQa1A3iOSNVbxqLbC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3nNzXOYWyHtCLVSY75xh74"
+        },
+        "followers": {
+          "href": null,
+          "total": 11
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/3nNzXOYWyHtCLVSY75xh74",
+        "id": "3nNzXOYWyHtCLVSY75xh74",
+        "images": [],
+        "name": "Jimi Westbrook",
+        "popularity": 16,
+        "type": "artist",
+        "uri": "spotify:artist:3nNzXOYWyHtCLVSY75xh74"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3nqEYrDwdr8t7E5eaxhcD2"
+        },
+        "followers": {
+          "href": null,
+          "total": 1414
+        },
+        "genres": [
+          "bounce"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3nqEYrDwdr8t7E5eaxhcD2",
+        "id": "3nqEYrDwdr8t7E5eaxhcD2",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/a736b2eb593005c38a474cb1b589264b7fdd2781",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/b1ac8d1b135f83f64068998fb9bf982e4e4b092c",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ac6700f3b6eca1f87ce9a45790522d0468f591a1",
+            "width": 64
+          }
+        ],
+        "name": "DJ Jimi",
+        "popularity": 14,
+        "type": "artist",
+        "uri": "spotify:artist:3nqEYrDwdr8t7E5eaxhcD2"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/69BMMZBDR4Mcvunul8Ij3q"
+        },
+        "followers": {
+          "href": null,
+          "total": 269
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/69BMMZBDR4Mcvunul8Ij3q",
+        "id": "69BMMZBDR4Mcvunul8Ij3q",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/5bfa944331f923cc6c9c98b2d4a5b8fc89cec6d6",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/59df4ea6741852a32dbc97459b24a4d41ad3c281",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/635a4410c0b1f19244753531c3bce64a5d85f2d3",
+            "width": 64
+          }
+        ],
+        "name": "Jimi Nxir",
+        "popularity": 25,
+        "type": "artist",
+        "uri": "spotify:artist:69BMMZBDR4Mcvunul8Ij3q"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/346gMAN36QB6magdd0CbJZ"
+        },
+        "followers": {
+          "href": null,
+          "total": 10
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/346gMAN36QB6magdd0CbJZ",
+        "id": "346gMAN36QB6magdd0CbJZ",
+        "images": [],
+        "name": "Jimi Ono",
+        "popularity": 13,
+        "type": "artist",
+        "uri": "spotify:artist:346gMAN36QB6magdd0CbJZ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/62ZprDuOAfDn8t8FdzIkTh"
+        },
+        "followers": {
+          "href": null,
+          "total": 115
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/62ZprDuOAfDn8t8FdzIkTh",
+        "id": "62ZprDuOAfDn8t8FdzIkTh",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/b404bd55f6f13764ee0cbfffea2d021044dcc926",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/bb1a133d2b0654810f6b9cb568bd4894c82f25f1",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ce8a3582b85b023304cbb47aec163f069fb4ebc1",
+            "width": 64
+          }
+        ],
+        "name": "Jimi Nu",
+        "popularity": 9,
+        "type": "artist",
+        "uri": "spotify:artist:62ZprDuOAfDn8t8FdzIkTh"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1544E8MlTH2tHCuSp4huUS"
+        },
+        "followers": {
+          "href": null,
+          "total": 5740
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/1544E8MlTH2tHCuSp4huUS",
+        "id": "1544E8MlTH2tHCuSp4huUS",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/accc68267d7e4d27f919c417ff28a30bbdad9cc3",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/9ab4441e2fd25d2c95bd44d883ea448ccb7f3745",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/cb67e72bd3ef5a87da8c696a66b90990fb36be84",
+            "width": 64
+          }
+        ],
+        "name": "Jimi D",
+        "popularity": 19,
+        "type": "artist",
+        "uri": "spotify:artist:1544E8MlTH2tHCuSp4huUS"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5RbyoWPDn9176sxH8dvKZz"
+        },
+        "followers": {
+          "href": null,
+          "total": 192
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/5RbyoWPDn9176sxH8dvKZz",
+        "id": "5RbyoWPDn9176sxH8dvKZz",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/e324e25e54757335ffbc98dfeb47f800b1c77029",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/9d9396e960c9b7cf2f43a5c8d43c5ff93ecac720",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/baad7f8a804173379011fc2e199e53f336259294",
+            "width": 64
+          }
+        ],
+        "name": "Jimi Bellmartin",
+        "popularity": 17,
+        "type": "artist",
+        "uri": "spotify:artist:5RbyoWPDn9176sxH8dvKZz"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/09h74UinpzO9yHbRFn9jwj"
+        },
+        "followers": {
+          "href": null,
+          "total": 3
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/09h74UinpzO9yHbRFn9jwj",
+        "id": "09h74UinpzO9yHbRFn9jwj",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/d204b56300ded9d6ea333994b7eac341c38d9a69",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/cb6c268b00b8e22aa541ef612bcada1aac955112",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/74d85512cee5094fffe79387484d3812ee71dbb6",
+            "width": 64
+          }
+        ],
+        "name": "Jimi Kidd",
+        "popularity": 6,
+        "type": "artist",
+        "uri": "spotify:artist:09h74UinpzO9yHbRFn9jwj"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2OTTHs1XuYtuIUpnYcxP6i"
+        },
+        "followers": {
+          "href": null,
+          "total": 38
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/2OTTHs1XuYtuIUpnYcxP6i",
+        "id": "2OTTHs1XuYtuIUpnYcxP6i",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/34d71a43f1e0aaf769ce7f22aa1fd318db15f8f0",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/df207e0c20e4ec5cb6c5aea69be79cf7c428a6ab",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/46860bd2617006cd8be1ababc151d7ab492c8eb3",
+            "width": 64
+          }
+        ],
+        "name": "Jimi Bott",
+        "popularity": 13,
+        "type": "artist",
+        "uri": "spotify:artist:2OTTHs1XuYtuIUpnYcxP6i"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5XMraYNFbGUEk45t2XUdER"
+        },
+        "followers": {
+          "href": null,
+          "total": 78
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/5XMraYNFbGUEk45t2XUdER",
+        "id": "5XMraYNFbGUEk45t2XUdER",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/8febeeb6bb1f467a5b8662c8b1021916cb503b89",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/30934f265432744fc9a6eb8153d788282342a549",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/d31291e331ec529635d2315a7a39e66b1f1ee9a9",
+            "width": 160
+          }
+        ],
+        "name": "Just Jimi",
+        "popularity": 8,
+        "type": "artist",
+        "uri": "spotify:artist:5XMraYNFbGUEk45t2XUdER"
+      }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/search?query=Jimi&type=artist&offset=20&limit=20",
+    "offset": 0,
+    "previous": null,
+    "total": 364
+  }
+}
