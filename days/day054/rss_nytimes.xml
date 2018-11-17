@@ -1,0 +1,743 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Technology</title>
+    <link>https://www.nytimes.com/section/technology?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/Technology.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2018  The New York Times Company</copyright>
+    <lastBuildDate>Sat, 17 Nov 2018 14:03:30 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; Technology</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/technology?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>A Look Inside the Tactics of Definers, Facebook&#x2019;s Attack Dog</title>
+      <link>https://www.nytimes.com/2018/11/15/technology/facebook-definers-opposition-research.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/15/technology/facebook-definers-opposition-research.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/15/technology/facebook-definers-opposition-research.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/15/climate/16definders01/16definders01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Sheryl Sandberg, Facebook&#x2019;s chief operating officer, testifying in September before a Senate committee.</media:description>
+      <media:credit>Eric Thayer for The New York Times</media:credit>
+      <description>The opposition research firm had focused on the internet company&#x2019;s competition. But ahead of a Senate hearing it had a new target: senators.</description>
+      <dc:creator>JACK NICAS and MATTHEW ROSENBERG</dc:creator>
+      <pubDate>Fri, 16 Nov 2018 01:24:45 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Definers Public Affairs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Lobbying and Lobbyists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Senate Committee on Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sandberg, Sheryl K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>Mark Zuckerberg Defends Facebook as Furor Over Its Tactics Grows</title>
+      <link>https://www.nytimes.com/2018/11/15/technology/zuckerberg-facebook-sandberg-tactics.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/15/technology/zuckerberg-facebook-sandberg-tactics.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/15/technology/zuckerberg-facebook-sandberg-tactics.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/16/business/16FACEBOOK01/16FACEBOOK01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mark Zuckerberg fielded questions from reporters on Thursday about his and Sheryl Sandberg&#x2019;s management of Facebook.</media:description>
+      <media:credit>Tom Brenner/The New York Times</media:credit>
+      <description>Mr. Zuckerberg said that he wouldn&#x2019;t step down as chairman and that his No. 2, Sheryl Sandberg, was &#x201C;doing great work&#x201D; despite questions about their management.</description>
+      <dc:creator>CECILIA KANG, MATTHEW ROSENBERG and MIKE ISAAC</dc:creator>
+      <pubDate>Fri, 16 Nov 2018 05:11:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Social Responsibility</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+    </item>
+    <item>
+      <title>Google Cloud Executive Who Sought Pentagon Contract Steps Down</title>
+      <link>https://www.nytimes.com/2018/11/16/technology/diane-greene-google-cloud.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/16/technology/diane-greene-google-cloud.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/16/technology/diane-greene-google-cloud.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/17/business/17google1/merlin_106046764_c24b7fe2-c968-4aa7-b2c0-984fee149ae4-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Diane Greene, a co-founder and former chief executive of VMware, was hired in 2015 to expand Google&#x2019;s cloud computing business.</media:description>
+      <media:credit>Damien Maloney for The New York Times</media:credit>
+      <description>Diane Greene, who has run Google Cloud for three years, will be replaced by a former Oracle executive.</description>
+      <dc:creator>DAISUKE WAKABAYASHI</dc:creator>
+      <pubDate>Fri, 16 Nov 2018 20:28:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Enterprise Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Alphabet Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">VMware Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Greene, Diane B</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kurian, Thomas R (1966- )</category>
+    </item>
+    <item>
+      <title>Bits: The Week in Tech: Amazon Finally Makes an HQ2 Decision</title>
+      <link>https://www.nytimes.com/2018/11/16/technology/week-in-tech-amazon-hq2.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/16/technology/week-in-tech-amazon-hq2.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/16/technology/week-in-tech-amazon-hq2.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/16/autossell/16technewsletter/merlin_146845335_641610a3-2b15-44a4-8436-6c5ecf854374-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Amazon chose the Long Island City neighborhood of Queens as the location for half of its second headquarters. In doing so, it will have to deal with the labor, media and electoral politics of New York.</media:description>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <description>The internet retailer took 14 months to decide on a second headquarters. Surprise! There will be two of them, and skeptics have plenty to chew on.</description>
+      <dc:creator>KAREN WEISE</dc:creator>
+      <pubDate>Fri, 16 Nov 2018 14:00:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Relocation of Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crystal City (Va)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island City (Queens, NY)</category>
+    </item>
+    <item>
+      <title>The Saturday Profile: From Encyclopedic Collector to &#x2018;Wikipedian-at-Large&#x2019;</title>
+      <link>https://www.nytimes.com/2018/11/16/world/australia/new-zealand-wikipedia-saturday-profile.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/16/world/australia/new-zealand-wikipedia-saturday-profile.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/16/world/australia/new-zealand-wikipedia-saturday-profile.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/09/world/09nz-wikipedia-1/09nz-wikipedia-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mike Dickison, New Zealand&#x2019;s first Wikipedian-at-Large, in the library of the Auckland War Memorial Museum. &#x201C;If I find something I&#x2019;m passionate about, I need to share it and get other people involved too,&#x201D; he said.</media:description>
+      <media:credit>Cornell Tukiri for The New York Times</media:credit>
+      <description>Mike Dickison was a museum curator when he turned to another form of curating, teaching fellow New Zealanders how to beef up their country&#x2019;s presence on the website.</description>
+      <dc:creator>CHARLOTTE GRAHAM-McLAY</dc:creator>
+      <pubDate>Fri, 16 Nov 2018 21:42:48 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Duke University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Wikimedia Foundation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mike Dickison</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Auckland (New Zealand)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Christchurch (New Zealand)</category>
+    </item>
+    <item>
+      <title>Real Estate Technology: Try, Try Again</title>
+      <link>https://www.nytimes.com/2018/11/16/realestate/real-estate-technology-try-try-again.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/16/realestate/real-estate-technology-try-try-again.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/16/realestate/real-estate-technology-try-try-again.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/18/realestate/18TECHNOLOGY-GIF/18TECHNOLOGY-GIF-moth.gif" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Peter Bollinger</media:credit>
+      <description>Stackable apartments. Robotic valets. Infrared spas. The future has arrived, haltingly, and this time will be different. Maybe.</description>
+      <dc:creator>STEFANOS CHEN</dc:creator>
+      <pubDate>Fri, 16 Nov 2018 20:28:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Robots and Robotics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cellular Telephones</category>
+    </item>
+    <item>
+      <title>&#x2018;No Morals&#x2019;: Advertisers React to Facebook Report</title>
+      <link>https://www.nytimes.com/2018/11/15/business/media/facebook-advertisers.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/15/business/media/facebook-advertisers.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/15/business/media/facebook-advertisers.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/16/business/16fbadvertisers01/16fbadvertisers01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>One senior adviser in advertising suggested that Facebook should establish an ombudsman role to assess and report on its societal risks in regular financial filings.</media:description>
+      <media:credit>Philippe Wojazer/Reuters</media:credit>
+      <description>Several top marketers were critical of the tech giant after The New York Times reported how it ignored and hid warning signs that it was being exploited to disrupt elections and spread toxic content.</description>
+      <dc:creator>SAPNA MAHESHWARI</dc:creator>
+      <pubDate>Fri, 16 Nov 2018 15:16:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Publicis Groupe SA</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">GroupM</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Norman, Rob (Advertising Executive)</category>
+    </item>
+    <item>
+      <title>What Amazon&#x2019;s HQ2 Winners Look Like, Before Amazon </title>
+      <link>https://www.nytimes.com/2018/11/15/technology/amazon-headquarters-photos-crystal-city-long-island-city.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/15/technology/amazon-headquarters-photos-crystal-city-long-island-city.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/15/technology/amazon-headquarters-photos-crystal-city-long-island-city.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/16/business/16AMZCOMPARE20/16AMZCOMPARE20-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>
+        <em class="bold">Crystal City in Arlington, Va.</em>
+      </media:description>
+      <media:credit>Hector Emanuel for The New York Times</media:credit>
+      <description>Crystal City in Virginia and Long Island City in Queens are about to become home to an internet giant. They will probably never appear the same again.</description>
+      <dc:creator>CHRISTOPHER LEE and HECTOR EMANUEL</dc:creator>
+      <pubDate>Fri, 16 Nov 2018 16:28:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crystal City (Va)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island City (Queens, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-photojournalism</category>
+    </item>
+    <item>
+      <title>Neo-Nazis Have No First Amendment Right to Harassment, Judge Rules</title>
+      <link>https://www.nytimes.com/2018/11/15/us/daily-stormer-anti-semitic-lawsuit.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/15/us/daily-stormer-anti-semitic-lawsuit.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/15/us/daily-stormer-anti-semitic-lawsuit.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/16/us/16xp-nazi/16xp-nazi-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Tanya Gersh of Whitefish, Mont., became the target of a neo-Nazi &#x201C;troll storm&#x201D; of online harassment orchestrated by The Daily Stormer.</media:description>
+      <media:credit>Dan Chung/Southern Poverty Law Center, via Associated Press</media:credit>
+      <description>A lawsuit against the publisher of the website Daily Stormer for unleashing an online &#x201C;terror campaign&#x201D; against a Jewish realtor can proceed.</description>
+      <dc:creator>KAREN ZRAICK</dc:creator>
+      <pubDate>Fri, 16 Nov 2018 01:02:54 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anglin, Andrew</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gersh, Tanya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Neo Nazi Groups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Daily Stormer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Southern Poverty Law Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">First Amendment (US Constitution)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberharassment</category>
+    </item>
+    <item>
+      <title>&#x2018;I Don&#x2019;t Really Want to Work for Facebook.&#x2019; So Say Some Computer Science Students.</title>
+      <link>https://www.nytimes.com/2018/11/15/technology/jobs-facebook-computer-science-students.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/15/technology/jobs-facebook-computer-science-students.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/15/technology/jobs-facebook-computer-science-students.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/16/business/16FBRECRUITING05/16FBRECRUITING05-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Cal Hacks 5.0 competition drew students to the University of California, Berkeley, including, from left, Haitao Zhang, Ingrid Wu and Emily Hu, all students at Berkeley. Some students at the hackathon expressed a reluctance to work for big tech firms.</media:description>
+      <media:credit>Max Whittaker for The New York Times</media:credit>
+      <description>A job at Facebook is plum. But at a recent university hackathon, some young engineers showed a changing attitude toward working at the social network.</description>
+      <dc:creator>NELLIE BOWLES</dc:creator>
+      <pubDate>Thu, 15 Nov 2018 22:45:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Careers and Professions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Engineering and Engineers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hackathons</category>
+    </item>
+    <item>
+      <title>At War: Are Killer Robots the Future of War? Parsing the Facts on Autonomous Weapons</title>
+      <link>https://www.nytimes.com/2018/11/15/magazine/autonomous-robots-weapons.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/15/magazine/autonomous-robots-weapons.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/15/magazine/autonomous-robots-weapons.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/15/magazine/15atwar-robots-2/15atwar-robots-2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Milrem Robotic&#x2019;s Tracked Hybrid Modular Infantry System at the Changi exhibition centre in Singapore in February 2016.</media:description>
+      <media:credit>Roslan Rohman/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Under what circumstances should militaries delegate the decision to take a human life to machines? It&#x2019;s a moral leap that the international community is grappling with.</description>
+      <dc:creator>KELSEY D. ATHERTON</dc:creator>
+      <pubDate>Thu, 15 Nov 2018 10:00:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Defense Advanced Research Projects Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scharre, Paul</category>
+    </item>
+    <item>
+      <title>Minister in Charge of Japan&#x2019;s Cybersecurity Says He Has Never Used a Computer</title>
+      <link>https://www.nytimes.com/2018/11/15/world/asia/japan-cybersecurity-yoshitaka-sakurada.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/15/world/asia/japan-cybersecurity-yoshitaka-sakurada.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/15/world/asia/japan-cybersecurity-yoshitaka-sakurada.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/16/world/16japan-cyber/16japan-cyber-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Yoshitaka Sakurada, left, who heads the Japanese government&#x2019;s cybersecurity office, said he had no need to learn to use a computer.</media:description>
+      <media:credit>Jiji Press/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Yoshitaka Sakurada appeared not to know what a USB drive was, and told lawmakers that when it was necessary to use a computer, &#x201C;I order my employees or secretaries&#x201D; to do it.</description>
+      <dc:creator>DANIEL VICTOR</dc:creator>
+      <pubDate>Thu, 15 Nov 2018 17:24:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sakurada, Yoshitaka</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+    </item>
+    <item>
+      <title>Facebook Cuts Ties With Washington Firm That Sought to Discredit Social Network&#x2019;s Critics</title>
+      <link>https://www.nytimes.com/2018/11/15/technology/facebook-definers-soros.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/15/technology/facebook-definers-soros.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/15/technology/facebook-definers-soros.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/16/world/16fbdefiners/16fbdefiners-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A Facebook logo reflected on an advertisement board outside the United States Capitol in Washington in October. Facebook had initially hired Definers Public Affairs, a consulting firm, to monitor news about the social network.</media:description>
+      <media:credit>Tom Brenner for The New York Times</media:credit>
+      <description>The social network faced scrutiny for working with the consulting firm, which tried to discredit critics and rivals of the Silicon Valley giant.</description>
+      <dc:creator>MIKE ISAAC and JACK NICAS</dc:creator>
+      <pubDate>Thu, 15 Nov 2018 19:02:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Soros, George</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Definers Public Affairs</category>
+    </item>
+    <item>
+      <title>Damage Control at Facebook: 6 Takeaways From The Times&#x2019;s Investigation </title>
+      <link>https://www.nytimes.com/2018/11/14/technology/facebook-crisis-mark-zuckerberg-sheryl-sandberg.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/14/technology/facebook-crisis-mark-zuckerberg-sheryl-sandberg.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/14/technology/facebook-crisis-mark-zuckerberg-sheryl-sandberg.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/15/us/15facebook-takeaway1/merlin_136662690_c565fe9f-1759-40bd-8dd2-72a53f2c539a-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mark Zuckerberg at a congressional hearing in April.</media:description>
+      <media:credit>Tom Brenner/The New York Times</media:credit>
+      <description>An investigation by The New York Times revealed how Facebook fought back against critics during a flood of crises &#x2014; with delays, denials and an influence campaign in Washington.</description>
+      <dc:creator>NICHOLAS CONFESSORE and MATTHEW ROSENBERG</dc:creator>
+      <pubDate>Thu, 15 Nov 2018 17:59:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data-Mining and Database Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Lobbying and Lobbyists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Cambridge Analytica</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cook, Timothy D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Klobuchar, Amy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sandberg, Sheryl K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schumer, Charles E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Soros, George</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warner, Mark R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+    </item>
+    <item>
+      <title>Tech We&#x2019;re Using: The Essentials for Covering Silicon Valley: Burner Phones and Doorbells</title>
+      <link>https://www.nytimes.com/2018/11/14/technology/personaltech/the-essentials-for-covering-silicon-valley-burner-phones-and-doorbells.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/14/technology/personaltech/the-essentials-for-covering-silicon-valley-burner-phones-and-doorbells.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/14/technology/personaltech/the-essentials-for-covering-silicon-valley-burner-phones-and-doorbells.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/15/business/15techusing-01/15techusing-01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The New York Times reporter Jack Nicas in San Francisco. Some of his most reliable reporting tools are a pen and paper, he says.</media:description>
+      <media:credit>Jim McAuley for The New York Times</media:credit>
+      <description>Reporting on secretive technology companies sometimes means finding people who don&#x2019;t want to be found. Jack Nicas, who covers Apple, relies on some old-school methods.</description>
+      <dc:creator>JACK NICAS</dc:creator>
+      <pubDate>Wed, 14 Nov 2018 23:38:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+    </item>
+    <item>
+      <title>Amazon&#x2019;s HQ2 in Virginia Leaves a Real Estate Firm Poised to Cash In</title>
+      <link>https://www.nytimes.com/2018/11/14/technology/jbg-amazon-hq2.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/14/technology/jbg-amazon-hq2.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/14/technology/jbg-amazon-hq2.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/15/business/15jbg-1/15jbg-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Galvan, a JBG Smith property in Rockville, Md. Amazon&#x2019;s expansion plans in Northern Virginia will be a windfall for the real estate company.</media:description>
+      <media:credit>Justin T. Gellerson for The New York Times</media:credit>
+      <description>JBG Smith is the largest landowner in a Virginia area some have called a ghost town. That could change fast with Amazon&#x2019;s new office plans.</description>
+      <dc:creator>JULIE CRESWELL</dc:creator>
+      <pubDate>Wed, 14 Nov 2018 23:18:54 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">JBG Cos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crystal City (Va)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Area Planning and Renewal</category>
+    </item>
+    <item>
+      <title>Delay, Deny and Deflect: How Facebook&#x2019;s Leaders Fought Through Crisis</title>
+      <link>https://www.nytimes.com/2018/11/14/technology/facebook-data-russia-election-racism.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/14/technology/facebook-data-russia-election-racism.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/14/technology/facebook-data-russia-election-racism.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/15/us/politics/15facebook1/merlin_145877613_4bc6b7c1-e52b-46e2-a0c8-56d7fec5aea9-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Facebook has gone on the attack as one scandal after another &#x2014; Russian meddling, data sharing, hate speech &#x2014; has led to a congressional and consumer backlash.</media:description>
+      <media:credit>Tom Brenner for The New York Times</media:credit>
+      <description>Russian meddling, data sharing, hate speech &#x2014; the social network faced one scandal after another. This is how Mark Zuckerberg and Sheryl Sandberg responded.</description>
+      <dc:creator>SHEERA FRENKEL, NICHOLAS CONFESSORE, CECILIA KANG, MATTHEW ROSENBERG and JACK NICAS</dc:creator>
+      <pubDate>Thu, 15 Nov 2018 11:30:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Data-Mining and Database Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sandberg, Sheryl K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Political Advertising</category>
+    </item>
+    <item>
+      <title>Uber&#x2019;s Losses Continue Ahead of Initial Public Offering</title>
+      <link>https://www.nytimes.com/2018/11/14/technology/uber-losses-initial-public-offering.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/14/technology/uber-losses-initial-public-offering.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/14/technology/uber-losses-initial-public-offering.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/15/business/15UBER02/15UBER02-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Uber is preparing for an initial public offering next year, in what would likely be one of the biggest technology offerings.</media:description>
+      <media:credit>Lucas Jackson/Reuters</media:credit>
+      <description>Uber, which is moving toward a public debut next year, said its net loss was more than $1 billion in the third quarter.</description>
+      <dc:creator>KATE CONGER</dc:creator>
+      <pubDate>Wed, 14 Nov 2018 21:02:31 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Company Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delivery Services</category>
+    </item>
+    <item>
+      <title>Tech Fix: What&#x2019;s Hot (and What&#x2019;s Not) This Black Friday</title>
+      <link>https://www.nytimes.com/2018/11/14/technology/personaltech/black-friday-deals.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/14/technology/personaltech/black-friday-deals.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/14/technology/personaltech/black-friday-deals.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/15/business/15TECHFIX04/15TECHFIX04-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>The line outside a Best Buy store before it opened on Black Friday in Overland Park, Kan., last year.</media:description>
+      <media:credit>Charlie Riedel/Associated Press</media:credit>
+      <description>To help shoppers get started, here&#x2019;s a cheat sheet of the products to track, and the ones to ignore.</description>
+      <dc:creator>BRIAN X. CHEN</dc:creator>
+      <pubDate>Wed, 14 Nov 2018 19:24:10 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Friday and Cyber Monday (Shopping)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television Sets and Media Devices</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Home Appliances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Headphones and Headsets</category>
+    </item>
+    <item>
+      <title>New York Is a Genuine Tech Hub (and That Was Before Amazon)</title>
+      <link>https://www.nytimes.com/2018/11/14/technology/new-york-tech-jobs-amazon-hq2.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/14/technology/new-york-tech-jobs-amazon-hq2.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/14/technology/new-york-tech-jobs-amazon-hq2.html?partner=rss&amp;emc=rss"/>
+      <description>The Bay Area in California remains the nation&#x2019;s high-tech epicenter. But New York&#x2019;s tech work force has been growing impressively.</description>
+      <dc:creator>STEVE LOHR</dc:creator>
+      <pubDate>Wed, 14 Nov 2018 19:22:17 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Relocation of Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Cornell Tech</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Columbia University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Cornell University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+    </item>
+    <item>
+      <title>Amazon&#x2019;s New York Home Qualifies as &#x2018;Distressed&#x2019; Under Federal Tax Law</title>
+      <link>https://www.nytimes.com/2018/11/14/us/politics/amazon-hq2-long-island-city.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/14/us/politics/amazon-hq2-long-island-city.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/14/us/politics/amazon-hq2-long-island-city.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/12/business/00dc-opportunity-1/00dc-opportunity-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Several areas of Long Island City have been designated as federal &#x201C;opportunity zones.&#x201D; The one that includes Amazon&#x2019;s site was attracting development even before the tax incentive.</media:description>
+      <media:credit>Joshua Bright for The New York Times</media:credit>
+      <description>The Long Island City site was designated as an &#x201C;opportunity zone,&#x201D; an incentive created by President Trump&#x2019;s tax bill to help low-income areas attract investment.</description>
+      <dc:creator>JIM TANKERSLEY</dc:creator>
+      <pubDate>Wed, 14 Nov 2018 16:31:17 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island City (Queens, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Relocation of Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Gentrification</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Tax Credits, Deductions and Exemptions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Taxes (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Tax Cuts and Jobs Act (2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Brookings Institution</category>
+    </item>
+    <item>
+      <title>Amazon HQ2: How New York and Virginia Won the Beauty Contest </title>
+      <link>https://www.nytimes.com/2018/11/14/technology/amazon-hq2-newyork-virginia-recap.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/14/technology/amazon-hq2-newyork-virginia-recap.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/14/technology/amazon-hq2-newyork-virginia-recap.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/15/business/15amazonroundup-promo/15amazonroundup-promo-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Amazon will take about one million square feet in Long Island City, Queens.</media:description>
+      <media:credit>Stefano Ukmar for The New York Times</media:credit>
+      <description>Eager candidates offered name changes, helipads and even cactuses to entice the company into setting up shop.</description>
+      <dc:creator>AMIE TSANG</dc:creator>
+      <pubDate>Thu, 15 Nov 2018 16:57:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bezos, Jeffrey P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cuomo, Andrew M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">de Blasio, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alexandria (Va)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crystal City (Va)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island City (Queens, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Tax Credits, Deductions and Exemptions</category>
+    </item>
+    <item>
+      <title>State of the Art: How Google Photos Became a Perfect Jukebox for Our Memories</title>
+      <link>https://www.nytimes.com/2018/11/14/technology/google-photos-perfect-jukebox-our-memories.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/14/technology/google-photos-perfect-jukebox-our-memories.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/14/technology/google-photos-perfect-jukebox-our-memories.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/15/business/15STATE/merlin_146793567_f259dffd-89e1-4195-9b88-37957df4ba25-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Doug Chayka</media:credit>
+      <description>Google Photos, introduced in 2015, has become one of the most emotionally resonant pieces of technology today. It is also shaping our narratives along the way.</description>
+      <dc:creator>FARHAD MANJOO</dc:creator>
+      <pubDate>Wed, 14 Nov 2018 23:40:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Computer Vision</category>
+    </item>
+    <item>
+      <title>Up Next: A Tech Wunderkind Who Knows Jaden Smith and Elon Musk </title>
+      <link>https://www.nytimes.com/2018/11/14/style/iddris-sandu-presidential-scholar-award-obama.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/14/style/iddris-sandu-presidential-scholar-award-obama.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/14/style/iddris-sandu-presidential-scholar-award-obama.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/15/fashion/11UPNEXT-SANDU-1/11UPNEXT-SANDU-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Iddris Sandu wants to &#x201C;level the playing field&#x201D; between Silicon Valley and communities of color.</media:description>
+      <media:credit>Alex Welsh for The New York Times</media:credit>
+      <description>Iddris Sandu has written code for Instagram and Twitter, and counts Barack Obama as a fan.</description>
+      <dc:creator>ALEX HAWGOOD</dc:creator>
+      <pubDate>Wed, 14 Nov 2018 18:39:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
+    </item>
+    <item>
+      <title>A $2 Billion Question: Did New York and Virginia Overpay for Amazon?</title>
+      <link>https://www.nytimes.com/2018/11/13/business/economy/amazon-hq2-va-long-island-city-incentives.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/13/business/economy/amazon-hq2-va-long-island-city-incentives.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/13/business/economy/amazon-hq2-va-long-island-city-incentives.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/14/business/14incentives/14incentives-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Gov. Andrew M. Cuomo of New York looked on as Mayor Bill de Blasio shook hands Tuesday with John Schoettler, an Amazon executive. The state will give the company more than $1.5 billion in incentives to locate an operation in Long Island City, Queens, and hire 25,000 workers.</media:description>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <description>The states offered tax credits, rebates and other incentives to lure the online retail giant and 25,000 jobs. Neighboring states offered even more.</description>
+      <dc:creator>BEN CASSELMAN</dc:creator>
+      <pubDate>Wed, 14 Nov 2018 16:46:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Relocation of Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island City (Queens, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crystal City (Va)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Taxes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Tax Credits, Deductions and Exemptions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cuomo, Andrew M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">de Blasio, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+    </item>
+    <item>
+      <title>Dominating Retail? Yes. Reviving a City? No Thanks.</title>
+      <link>https://www.nytimes.com/2018/11/13/upshot/amazon-headquarters-reviving-a-city-no-thanks.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/13/upshot/amazon-headquarters-reviving-a-city-no-thanks.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/13/upshot/amazon-headquarters-reviving-a-city-no-thanks.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/14/upshot/14up-amazonscale/14up-amazonscale-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A demonstration in front of Amazon in Seattle in April. Protesters called for a tax on the city&#x2019;s largest companies to help pay for homeless services. The tax passed, but Amazon fought the measure, and the Seattle City Council repealed it. </media:description>
+      <media:credit>Lindsey Wasson/Reuters</media:credit>
+      <description>Amazon is not in the business of saving your hometown.</description>
+      <dc:creator>EMILY BADGER</dc:creator>
+      <pubDate>Wed, 14 Nov 2018 20:39:34 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Relocation of Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island City (Queens, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crystal City (Va)</category>
+    </item>
+    <item>
+      <title>How to Tell if Those Black Friday Deals Are Actually Worth Buying</title>
+      <link>https://www.nytimes.com/2018/11/13/smarter-living/how-to-tell-if-black-friday-deals-are-worth-buying.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/13/smarter-living/how-to-tell-if-black-friday-deals-are-worth-buying.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/13/smarter-living/how-to-tell-if-black-friday-deals-are-worth-buying.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/17/autossell/17sl-blackfriday1/merlin_146785455_096203c3-58e0-42b7-8d4b-21a9e743ba88-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>This Black Friday, keep an eye out for deals on small appliances and electronics, like crock pots and the Instant Pot, Wirecutter experts said.</media:description>
+      <media:credit>Courtney Sacco/Caller-Times, via Corpus Christi Caller-Times, via Associated Press</media:credit>
+      <description>Black Friday and Cyber Monday mean hundreds of online deals, discounts, and in-person doorbusters, but these tips will help you tell which ones are really worth your money.</description>
+      <dc:creator>ALAN HENRY</dc:creator>
+      <pubDate>Thu, 15 Nov 2018 21:54:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Friday and Cyber Monday (Shopping)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+    </item>
+    <item>
+      <title>Barry Rand, Barrier-Breaking Chief Executive, Is Dead at 74</title>
+      <link>https://www.nytimes.com/2018/11/13/obituaries/barry-rand-dead.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/13/obituaries/barry-rand-dead.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/13/obituaries/barry-rand-dead.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/14/obituaries/13RAND1/13RAND1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Barry Rand, one of few African-Americans to become chief executive of a Fortune 500 company, in 2012.</media:description>
+      <media:credit>Toby Jorrin/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>After being passed over at Xerox, he became one of the few African-American chief executives of a Fortune 500 company when he took control of Avis.</description>
+      <dc:creator>RICHARD SANDOMIR</dc:creator>
+      <pubDate>Tue, 13 Nov 2018 23:14:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rand, Addison Barry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">AARP</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Xerox Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Avis Budget Group Inc</category>
+    </item>
+    <item>
+      <title>Online Photo Printing for the Holidays (and Any Time)</title>
+      <link>https://www.nytimes.com/2018/11/13/smarter-living/wirecutter/best-online-photo-printing-holidays.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/13/smarter-living/wirecutter/best-online-photo-printing-holidays.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/13/smarter-living/wirecutter/best-online-photo-printing-holidays.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/13/smarter-living/wc-photoprinting/wc-photoprinting-moth.png" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Sarah MacReading</media:credit>
+      <description>Want to share photos this holiday season (and other times)? We have recommendations for cards, photo books, and photo printing services.</description>
+      <dc:creator>WIRECUTTER STAFF</dc:creator>
+      <pubDate>Tue, 13 Nov 2018 17:50:41 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gifts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+    </item>
+    <item>
+      <title>Tavares Strachan Teams With SpaceX to Launch Satellite-Sculpture Into Orbit</title>
+      <link>https://www.nytimes.com/2018/11/13/arts/design/spacex-enoch-tavares-strachan.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/13/arts/design/spacex-enoch-tavares-strachan.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/13/arts/design/spacex-enoch-tavares-strachan.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/14/arts/14strachan-item/14strachan-item-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A digital rendering of the &#x201C;Enoch&#x201D; satellite.</media:description>
+      <media:credit>Courtesy of Tavares Strachan</media:credit>
+      <description>The object, made of 24-karat gold, honors Robert Henry Lawrence Jr., the first African-American to train as an astronaut.</description>
+      <dc:creator>JORI FINKEL</dc:creator>
+      <pubDate>Wed, 14 Nov 2018 06:05:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Aeronautics and Space Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Los Angeles County Museum of Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Enoch</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lawrence, Robert Henry Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Strachan, Tavares</category>
+    </item>
+    <item>
+      <title>Before a Deal, Amazon Had to Know: Could Cuomo and De Blasio Get Along?</title>
+      <link>https://www.nytimes.com/2018/11/13/technology/amazon-hq2-headquarters.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/13/technology/amazon-hq2-headquarters.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/13/technology/amazon-hq2-headquarters.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/14/business/14AMAZON07/14AMAZON07-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A former General Services Administration building is surrounded by residential and office high-rises in the Crystal City neighborhood of Arlington, Va.</media:description>
+      <media:credit>Ting Shen for The New York Times</media:credit>
+      <description>After meeting with the governor and mayor, Amazon decided the men could put aside their differences, and it began to iron out a package worth over a billion dollars.</description>
+      <dc:creator>KAREN WEISE and J. DAVID GOODMAN</dc:creator>
+      <pubDate>Wed, 14 Nov 2018 17:38:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Relocation of Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island City (Queens, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bezos, Jeffrey P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crystal City (Va)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">de Blasio, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cuomo, Andrew M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+    </item>
+    <item>
+      <title>For University of Minnesota, Chinese Tycoon&#x2019;s Arrest Shines Light, Again, on Sexual Assault</title>
+      <link>https://www.nytimes.com/2018/11/13/technology/richard-liu-rape-university-of-minnesota.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/13/technology/richard-liu-rape-university-of-minnesota.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/13/technology/richard-liu-rape-university-of-minnesota.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/12/business/00JD-1/00JD-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Richard Liu, the founder and chief of JD.com, in 2016. Mr. Liu, who has denied wrongdoing, was in Minnesota for a global business program, aimed at Asian executives, that is on track to generate over $10 million in tuition since starting last year.</media:description>
+      <media:credit>Qilai Shen/Bloomberg</media:credit>
+      <description>The billionaire Richard Liu, who has denied wrongdoing, was in Minneapolis attending a relatively new and lucrative academic program when he was arrested.</description>
+      <dc:creator>TIFFANY HSU, RAYMOND ZHONG and CAROLYN ZHANG</dc:creator>
+      <pubDate>Wed, 14 Nov 2018 18:52:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Liu, Richard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">University of Minnesota</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">JD.com</category>
+    </item>
+    <item>
+      <title>At War: The U.S. Army Is Trying to Develop New Land Mines &#x2014; Ones That Don&#x2019;t Harm Civilians</title>
+      <link>https://www.nytimes.com/2018/11/13/magazine/army-landmines.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/13/magazine/army-landmines.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/13/magazine/army-landmines.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/13/magazine/13atwar-landmines-2/13atwar-landmines-2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A mine-clearing line charge being detonated during live-fire training at Fort Irwin in California, October 2016.</media:description>
+      <media:credit>U.S. Army photo</media:credit>
+      <description>The Army has been working on a new model of antivehicle mines that could reduce the threat posed to civilians, if it works the way the service hopes.</description>
+      <dc:creator>JOHN ISMAY</dc:creator>
+      <pubDate>Tue, 13 Nov 2018 10:00:12 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Mines, Explosive</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Improvised Explosive Devices</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United States Army</category>
+    </item>
+    <item>
+      <title>Facebook Failed to Police How Its Partners Handled User Data</title>
+      <link>https://www.nytimes.com/2018/11/12/technology/facebook-data-privacy-users.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/12/technology/facebook-data-privacy-users.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/12/technology/facebook-data-privacy-users.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/13/business/13FBWYDEN-COMBO/13FBWYDEN-COMBO-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Sheryl Sandberg, Facebook&#x2019;s chief operating officer, testified before the Senate Intelligence Committee in September. Ron Wyden, a committee member, has pressed the company on its data privacy protections.</media:description>
+      <media:credit>Tom Brenner for The New York Times</media:credit>
+      <description>For years, Facebook struck deals that gave device makers access to troves of user data. A disclosure to Congress details the company&#x2019;s lax oversight of those partnerships.</description>
+      <dc:creator>NICHOLAS CONFESSORE, MICHAEL LaFORGIA and GABRIEL J.X. DANCE</dc:creator>
+      <pubDate>Tue, 13 Nov 2018 16:21:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data-Mining and Database Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wyden, Ron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Cambridge Analytica</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Trade Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">House of Representatives</category>
+    </item>
+    <item>
+      <title>Critic&#x2019;s Notebook: Amazon&#x2019;s HQ2 Will Benefit From New York City. But What Does New York Get?</title>
+      <link>https://www.nytimes.com/2018/11/12/arts/design/amazon-hq2-long-island-city-costs-benefits.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/12/arts/design/amazon-hq2-long-island-city-costs-benefits.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/12/arts/design/amazon-hq2-long-island-city-costs-benefits.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/13/arts/13kimmelman/13kimmelman-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The waterfront in Long Island City, Queens, a neighborhood Amazon will announce as a site for one of its HQ2 complexes.</media:description>
+      <media:credit>Don Emmert/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Amazon promises tens of thousands of new jobs, but should we expect more than that?</description>
+      <dc:creator>MICHAEL KIMMELMAN</dc:creator>
+      <pubDate>Tue, 13 Nov 2018 23:38:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island City (Queens, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Relocation of Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Architecture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Urban Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+    </item>
+    <item>
+      <title>Amazon&#x2019;s New Neighbor: The Nation&#x2019;s Largest Housing Project</title>
+      <link>https://www.nytimes.com/2018/11/12/nyregion/amazon-queens-queensbridge-houses.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/12/nyregion/amazon-queens-queensbridge-houses.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/12/nyregion/amazon-queens-queensbridge-houses.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/11/nyregion/00nyamazon/00nyamazon-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Queensbridge Houses, the nation&#x2019;s largest public housing complex, is home to a mostly black and Hispanic population with a median household income well below the federal poverty level.</media:description>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <description>As a company owned by the world&#x2019;s richest man prepares to transform Long Island City, tenants of the Queensbridge Houses worry that they&#x2019;ll be left behind.</description>
+      <dc:creator>COREY KILGANNON</dc:creator>
+      <pubDate>Tue, 13 Nov 2018 17:35:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Queensbridge Houses (Queens, NY, Apartments)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Relocation of Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island City (Queens, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Public and Subsidized Housing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Poverty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Simpson, April</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">de Blasio, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">van Bramer, Jimmy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queens (NYC)</category>
+    </item>
+    <item>
+      <title>Are You Ready for the Nanoinfluencers?</title>
+      <link>https://www.nytimes.com/2018/11/11/business/media/nanoinfluencers-instagram-influencers.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/11/business/media/nanoinfluencers-instagram-influencers.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/11/business/media/nanoinfluencers-instagram-influencers.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/12/business/12NANO-COMBO-WEB-ONLY/12NANO-COMBO-WEB-ONLY-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Images of #sponsored content from the Instagram accounts of Alexis Baker, top row, and Haley Stutzman. Ms. Baker has about 2,600 followers and Ms. Stutzman about 5,500.</media:description>
+      <media:credit>Top row, Alexis Baker; bottom row, Haley Stutzman</media:credit>
+      <description>Influencers are so 2014. And microinfluencers are so last week. Now advertisers see value in people with as few as 1,000 followers: the nanoinfluencers.</description>
+      <dc:creator>SAPNA MAHESHWARI</dc:creator>
+      <pubDate>Mon, 12 Nov 2018 04:34:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">influencer</category>
+    </item>
+    <item>
+      <title>Alibaba&#x2019;s Singles Day Sales Top $30 Billion. The Party May Not Last.</title>
+      <link>https://www.nytimes.com/2018/11/11/business/alibaba-singles-day.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/11/business/alibaba-singles-day.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/11/business/alibaba-singles-day.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/12/business/12singlesday-1/12singlesday-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Alibaba&#x2019;s sales on Singles Day, which gets its name from the date, Nov. 11, broke the 200 billion yuan, or $28.8 billion, mark near the end of the 24-hour shopping event on Sunday.</media:description>
+      <media:credit>Ng Han Guan/Associated Press</media:credit>
+      <description>China&#x2019;s slowing economic growth and weakening consumer sentiment pose a challenge to an e-commerce giant with world-swallowing ambitions.</description>
+      <dc:creator>RAYMOND ZHONG</dc:creator>
+      <pubDate>Mon, 12 Nov 2018 03:40:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Alibaba Group Holding Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+    </item>
+  </channel>
+</rss>
