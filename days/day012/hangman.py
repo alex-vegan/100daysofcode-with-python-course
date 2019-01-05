@@ -113,9 +113,8 @@ def hangman(secretWord):
     else:
         print('Congratulations, you won!')
 
-'''
+
 if __name__ == '__main__':
     wordlist = loadWords(WORDLIST_FILENAME)
     secretWord = chooseWord(wordlist).lower()
     hangman(secretWord)
-'''
